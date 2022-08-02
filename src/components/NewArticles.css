@@ -1,0 +1,21 @@
+.business-category{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+
+.category{
+    list-style-type:none;
+    background-color: rgb(245, 95, 245);
+    display: flex;
+    padding: 10px 20px 10px 20px;
+    justify-content: space-between;
+    text-transform: uppercase;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+/* .category li button{
+    border: none;
+    background-color: rgb(245, 95, 245);
+    
+} */
